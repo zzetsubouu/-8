@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\source\repos\CompPract8\bin\Debug\CompPract8.exe.config
+C:\Users\Kab-35-6\source\repos\CompPract8\bin\Debug\CompPract8.exe
+C:\Users\Kab-35-6\source\repos\CompPract8\bin\Debug\CompPract8.pdb
+C:\Users\Kab-35-6\source\repos\CompPract8\obj\Debug\CompPract8.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\source\repos\CompPract8\obj\Debug\CompPract8.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\source\repos\CompPract8\obj\Debug\CompPract8.exe
+C:\Users\Kab-35-6\source\repos\CompPract8\obj\Debug\CompPract8.pdb
